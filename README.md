@@ -3,7 +3,7 @@
 In the paper, Pierson et al. investigate whether there is racial discrimination in police stops across the US. As our creative extension, we propose to examine the dataset from a different angle, sexual discrimination in police stops in some specific states in the US. We think this topic is interesting because we can apply some of the techniques that were applied in the original paper. We will start by analyzing who carries more contrabands, men or women. Then we investigate the contrabands by their types, such as drugs and weapons. Furthermore, we will use the "Veil of the Darkness" test from the paper and observe stop rates around dusk time for each of the sexes. Lastly, we will inspect if the officers with less experience are more sexist or avoid such discrimination due to lack of experience.
 
 # Research Questions
-- RQ1: Which sex carries more contrabands?
+- RQ1: Do women are stopped based on less evidence?
 - RQ2: Is there any sexual bias against drivers? Do officers stop and search men more than women for no reason?
 - RQ3: Are officers with less experience more sexist?
 
