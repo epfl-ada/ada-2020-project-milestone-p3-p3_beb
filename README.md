@@ -43,5 +43,3 @@ In Week 3, team members will examine each other's work and discuss their finding
 - Melike implemented the dusk time calculations using state information. Then, Aaron improved this approach using latitude and longitude information and made it more precise.  
 - Melike made the analysis, plotted the graphs, and wrote the data story for RQ2.  
 - Aaron made the analysis, plotted the graph, and wrote the data story for RQ3.  
-
-# Questions for TAs (optional)
