@@ -1,3 +1,7 @@
+Link to our data story: [https://ada-beb.github.io/](https://ada-beb.github.io/)
+
+---
+
 # Title: Analysis of Sexual Discrimination in Police Stops across the US
 # Abstract
 In the paper, Pierson et al. investigate whether there is racial discrimination in police stops across the US. As our creative extension, we propose to examine the dataset from a different angle, sexual discrimination in police stops across the US. We start by analyzing who carries more contrabands, men or women. We find that men carry more contraband, but women are searched based on less evidence. Furthermore, we will use the "Veil of the Darkness" test from the paper and observe search rates and carrying contraband before and after dusk time for each of the sexes. We observe that in some states, there is a sign of sexism against men. Lastly, we inspect if the officers with less experience are more sexist or avoid such discrimination due to lack of experience.
@@ -8,11 +12,9 @@ In the paper, Pierson et al. investigate whether there is racial discrimination 
 - RQ3: Are officers with less experience more sexist?
 
 # Proposed dataset
-As in the research paper, we will use data from the Stanford Open Policing Project. This project consists of several datasets of police stops across the US. Based on some criteria, such as the availability of relevant information for our analysis, we will focus on some specific locations (Long Beach, CA; Statewide, FL; Chicago, IL). The most constraining factor here is the availability of officers’ years of experience.
+As in the research paper, we will use data from the Stanford Open Policing Project. This project consists of several datasets of police stops across the US. Based on some criteria, such as the availability of relevant information for our analysis, we will focus on some specific locations. The most constraining factor is the availability of officers’ years of experience for RQ3.
 
-Even in the aforementioned states, not all of the data points have the officer’s years of experience, so we will likely have to do imputation or drop some data points. Most of the missing data is from Florida, where we have 100% coverage for officer_id, which might help a bit for imputation. An in-depth look at the data is required to know what the best approach is.
-
-We looked for a dataset which contains dusk information for states across the USA. However, we could not find such a dataset. Therefore, we will use the Astral Python library to calculate the information.
+We looked for a dataset which contains dusk information for states across the USA. However, we could not find such a dataset. Therefore, we will use the [Astral](https://astral.readthedocs.io/en/stable/index.html) Python package to calculate the dusk time information.
 
 # Methods
 Our team will share the research questions, and everyone will work on one research question.
