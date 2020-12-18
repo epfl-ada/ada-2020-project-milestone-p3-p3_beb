@@ -38,4 +38,10 @@ Answering the Research Questions:
 
 In Week 3, team members will examine each other's work and discuss their findings.
 
+# Contributions of Team Members  
+- Alpha made the analysis, plotted the graphs, and wrote the data story for RQ1. He also prepared the template for our data story on [https://ada-beb.github.io/](https://ada-beb.github.io/).  
+- Melike implemented the dusk time calculations using state information. Then, Aaron improved this approach using latitude and longitude information and made it more precise.  
+- Melike made the analysis, plotted the graphs, and wrote the data story for RQ2.  
+- Aaron made the analysis, plotted the graph, and wrote the data story for RQ3.  
+
 # Questions for TAs (optional)
