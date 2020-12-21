@@ -5,7 +5,6 @@ Link to our data story: [https://ada-beb.github.io/](https://ada-beb.github.io/)
 # Repository Structure
 - `final.ipynb` -> The notebook that contains the merged version of all research questions and it should be **graded**.
 - `RQ1.ipynb`, `RQ2.ipynb`, and `RQ3.ipynb` files contain solutions for RQ1, RQ2, and RQ3 respectively.
-- 
 
 ---
 
