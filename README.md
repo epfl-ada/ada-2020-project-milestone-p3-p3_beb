@@ -2,6 +2,13 @@ Link to our data story: [https://ada-beb.github.io/](https://ada-beb.github.io/)
 
 ---
 
+# Repository Structure
+- `final.ipynb` -> The notebook that contains the merged version of all research questions and it should be **graded**.
+- `RQ1.ipynb`, `RQ2.ipynb`, and `RQ3.ipynb` files contain solutions for RQ1, RQ2, and RQ3 respectively.
+- 
+
+---
+
 # Title: Analysis of Sexual Discrimination in Police Stops across the US
 # Abstract
 In the paper, Pierson et al. investigate whether there is racial discrimination in police stops across the US. As our creative extension, we propose to examine the dataset from a different angle, sexual discrimination in police stops across the US. We start by analyzing who carries more contrabands, men or women. We find that men carry more contraband, but women are searched based on less evidence. Furthermore, we will use the "Veil of the Darkness" test from the paper and observe search rates and carrying contraband before and after dusk time for each of the sexes. We observe that in some states, there is a sign of sexism against men. Lastly, we inspect if the officers with less experience are more sexist or avoid such discrimination due to lack of experience.
